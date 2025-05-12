@@ -30,7 +30,7 @@ const AboutSection = () => {
             <Card className="glass-card p-1">
               <div className="aspect-square w-full overflow-hidden rounded-lg bg-gradient-to-br from-tech-blue/20 via-tech-purple/20 to-tech-pink/20 flex items-center justify-center">
                 <img
-                  src={HerokaPhoto}
+                  src="/Herokaphoto.jpg"
                   alt="Utkarsh Tiwari"
                   className="w-full h-full object-cover"
                 />
