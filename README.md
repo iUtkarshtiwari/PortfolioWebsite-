@@ -1,8 +1,9 @@
-# Welcome to your Lovable project
+# My Portfolio [ https://urdigitalportfolio.netlify.app/ ]
 
-## Project info
+## Project info  
 
-**URL**: utkarshapp.netlify.app
+**URL**: also on [ utkarshapp.netlify.app ]
+
 This project is built with:
 
 - Vite
