@@ -66,7 +66,7 @@ const Navbar = () => {
           className="hidden md:flex border border-tech-purple/30 text-tech-purple hover:text-tech-light hover:bg-tech-purple/80"
           asChild
         >
-          <a href="/ut.pdf" download>
+          <a href="/UtkarshResume.pdf" download>
             Download Resume
           </a>
         </Button>
